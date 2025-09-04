@@ -1,0 +1,5 @@
+# Core dependencies for bank statement PDF to CSV conversion
+pdfplumber>=0.10.0
+google-generativeai>=0.3.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
